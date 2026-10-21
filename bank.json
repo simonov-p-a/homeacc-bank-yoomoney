@@ -1,7 +1,7 @@
 {
   "name": "ЮMoney",
   "site": "https://yoomoney.ru",
-  "regNum": "2058",
+  "regNum": "3510",
   "binding": {
     "type": "oauth",
     "steps": [
